@@ -1,0 +1,1 @@
+# scrimba-JavaScriptmas-Day-One
